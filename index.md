@@ -70,7 +70,7 @@ OK，当你把这些内容准备好之后，再开始注册Telegram账号，整�
 
 ## 三、如何下载Telegram官方客户端？
 
-为了降低恶意软件、盗号客户端带来的风险，建议你只通过Telegram官网（ https://telegram.org/ ）、Google Play、App Store，或者Telegram官方列出的下载渠道安装客户端。不要在来源不明的网站上随便搜索“Telegram破解版”“Telegram免验证版”或者“Telegram中文版安装包”。这些第三方安装包可能已经被别人修改过，存在读取验证码、聊天记录或者账号信息的风险。
+为了降低恶意软件、盗号客户端带来的风险，建议你只通过Telegram官网、Google Play、App Store，或者Telegram官方列出的下载渠道安装客户端。不要在来源不明的网站上随便搜索“Telegram破解版”“Telegram免验证版”或者“Telegram中文版安装包”。这些第三方安装包可能已经被别人修改过，存在读取验证码、聊天记录或者账号信息的风险。
 
 ### 1. Android手机下载方法
 
